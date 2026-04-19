@@ -1,0 +1,37 @@
+[
+  {
+    "title": "1960s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1960s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1960s.png"
+  },
+  {
+    "title": "1970s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1970s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1970s.png"
+  },
+  {
+    "title": "1980s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1980s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1980s.png"
+  },
+  {
+    "title": "1990s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1990s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/1990s.png"
+  },
+  {
+    "title": "2000s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2000s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2000s.png"
+  },
+  {
+    "title": "2010s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2010s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2010s.png"
+  },
+  {
+    "title": "2020s",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2020s.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/AnimatedDecades/main/2020s.png"
+  }
+]
